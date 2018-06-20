@@ -8,8 +8,8 @@ lessons for Python from python3入門＠ドットインストール
 - www.ptyon.org
 
 * 知識
-- UNIXコマンド入門（一般ユーザー編）（全１６回）
-- http://dotinstall.com/lessons/basic_unix
+- UNIXコマンド入門（一般ユーザー編）（全２４回）
+- https://dotinstall.com/lessons/basic_unix_v2
 
 * 環境
 Python 3.6.5 | Anaconda, Inc. | (default, Apr 29 2018, 16:14:56)
